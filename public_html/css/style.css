@@ -5,3 +5,22 @@ background-color: greenyellow;
 a {
     color: darkgreen;
 }
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+h1 {
+    border: 4px solid forestgreen;
+    margin-right: 1150px;
+    border-style: dotted;
+}
+
+nav {
+    border: 4px solid forestgreen;
+    margin-right: 1050px;
+    border-style: dotted;
+}
+
+
